@@ -1,0 +1,59 @@
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.MyMainForm.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.PrintingReceipt.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MyStroyShop.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.ChequeEmpty.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.IncorrectData.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.NotEnoughProduct.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.ProductIsNotSelected.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\User\Downloads\курсач\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\User\Downloads\курсач\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csprojAssemblyReference.cache
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.ChequeEmpty.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.IncorrectData.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.MyMainForm.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.NotEnoughProduct.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.PrintingReceipt.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.ProductIsNotSelected.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.GenerateResource.cache
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\User\Downloads\курсач\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\User\Desktop\курсач\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\User\Desktop\курсач\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\User\Desktop\курсач\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.ChequeEmpty.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.IncorrectData.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.MyMainForm.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.NotEnoughProduct.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.PrintingReceipt.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.ProductIsNotSelected.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\User\Desktop\курсач\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.ChequeEmpty.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.IncorrectData.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.MyMainForm.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.NotEnoughProduct.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.PrintingReceipt.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.ProductIsNotSelected.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MyStroyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\User\Desktop\2 курс\ПИ.Лабы\курсач\MainForm\MainForm\obj\Debug\MainForm.pdb

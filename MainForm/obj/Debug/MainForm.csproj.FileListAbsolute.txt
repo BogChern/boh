@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.exe
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\bin\Debug\MainForm.pdb
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.exe
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.pdb
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.MyMainForm.resources
+C:\Users\user\Desktop\Kyrsach\MainForm\MainForm\obj\Debug\MainForm.PrintingReceipt.resources
